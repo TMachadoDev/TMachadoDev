@@ -87,6 +87,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TMachadoDev/TMachadoDev/output/snake.svg" alt="Snake animation" />
-
 ###
