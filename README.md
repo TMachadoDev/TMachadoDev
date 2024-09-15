@@ -17,7 +17,7 @@
 
 ###
 
-<img align="left" height="150" src="https://cdn.discordapp.com/attachments/926099784203370557/1144637377592180868/Opera_Snapshot_2023-08-25_151934_image.pollinations.ai.png"  />
+
 
 ###
 
