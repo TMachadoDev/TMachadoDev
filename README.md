@@ -50,8 +50,7 @@ Next.js · NestJS · Supabase · PostgreSQL · MySQL · WebSockets · TypeScript
 
 ## 📫 Contact
 
-- LinkedIn: www.linkedin.com/in/
-tmachadodev
+- LinkedIn: www.linkedin.com/in/tmachadodev
 - Website: www.machadodev.pt
 - Email: t.g.machado@icloud.com
 
